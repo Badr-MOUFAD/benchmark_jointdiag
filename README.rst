@@ -3,7 +3,7 @@ Benchmark repository for Approximate Joint Diagonalization
 
 |Build Status| |Python 3.6+|
 
-BenchOpt is a package to simplify and make more transparent and
+Benchopt is a package to simplify and make more transparent and
 reproducible the comparisons of optimization algorithms.
 This benchmark considers the approximate joint diagonalization (AJD)
 of positive matrices. Given n square symmetric positive matrices $C^i$,
